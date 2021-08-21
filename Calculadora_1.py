@@ -1,0 +1,6 @@
+pregunta_1 = int(input("Por favor ingrese el primer numero "))
+pregunta_2 = int(input("Por favor ingrese el segundo numero "))
+print("El resultado de la suma de los numeros es " + str(pregunta_1 + pregunta_2))
+print("El resultado de la multiplicacion de los numeros es " + str(pregunta_1 * pregunta_2))
+print("El resultado de la resta de los numeros es " + str(pregunta_1 - pregunta_2))
+print("El resultado de la division de los numeros es " + str(pregunta_1 / pregunta_2))

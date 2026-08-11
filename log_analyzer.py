@@ -5,7 +5,7 @@ Analizador de logs de seguridad para detectar posibles ataques
 de fuerza bruta (múltiples intentos de inicio de sesión fallidos)
 a partir de un archivo de log estilo auth.log (Linux).
 
-Autor: Tu Nombre
+Autor: Christian Mendoza
 Nivel: Proyecto de portafolio - Ciberseguridad
 
 Uso:
